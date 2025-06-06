@@ -1,7 +1,7 @@
 
 
 console.log("Start of the program");
-let grade:number = 70;
+export let grade:number = 70;
 let gradeLetter:string;
 
 if (grade >= 90) {
