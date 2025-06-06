@@ -1,6 +1,6 @@
 // Lunes = 1, Martes = 2, Miércoles = 3, Jueves = 4, Viernes = 5, Sábado = 6, Domingo = 7
 
-let weekday: number = -5;
+export let weekday: number = -5;
 
 if (weekday <= 0){
     throw new Error("El día de la semana debe ser un número entre 1 y 7.");
