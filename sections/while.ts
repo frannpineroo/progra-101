@@ -1,5 +1,5 @@
 
-let gasTank:number = 50;
+export let gasTank:number = 50;
 
 while (gasTank > 0) {
     console.log("Gasolina restante:", gasTank);
