@@ -4,7 +4,7 @@ import {
     substractTwoNumbers, 
     timesTwoNumbers, 
     divideTwoNumbers 
-} from './helpers/math-helpers';
+} from '../helpers/math-helpers';
 
 let num1: number = 30;
 let num2: number = 20;
